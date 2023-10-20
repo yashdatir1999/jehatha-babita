@@ -16,3 +16,5 @@ one.addEventListener("mouseleave",function(){
     page.style.backgroundColor="red"
 
 })
+
+// checking update
